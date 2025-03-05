@@ -50,7 +50,7 @@ Executes SQL queries for **Part 2**, analyzing sales data and trends.
 - Computes **aggregations, groupings, and pivot tables** for total sales based on **gender, movie genre, promotions, and showtimes**.
 - Uses **Python (`pandas`)** for **data formatting and visualization**.
 
-🔍 **Key Queries Answered:**  
+🔍 **Examples of Key Queries Answered:**  
 ✅ **Sales by Gender and Age Groups (2015-2018)**  
 ✅ **Total sales grouped by Movie Genre & Weekdays**  
 ✅ **Tickets sold based on Morning, Afternoon, Night showtimes**  
@@ -67,7 +67,7 @@ Executes SQL queries for **Part 3**, focusing on **ranking and moving averages**
 - Computes **8-week and 4-week moving averages** for total sales trends.
 - Uses **Python (`pandas`, `matplotlib`)** for additional sorting, ranking, and plotting.
 
-🔍 **Key Queries Answered:**  
+🔍 **Examples of Queries Answered:**  
 ✅ **Ranking of Cinemas** in each city based on total sales (2018).  
 ✅ **Top 10 movies** for male and female customers (2018).  
 ✅ **8-week and 4-week Moving Averages** for total sales trends.  
@@ -77,4 +77,3 @@ Executes SQL queries for **Part 3**, focusing on **ranking and moving averages**
 ## 📧 Contact
 For any questions, feel free to reach out!  
 
-🚀 **This README provides an in-depth explanation of each Python file's objective and functionalities, making it easier for instructors and contributors to navigate the project.** 🚀  
